@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! 👋
+Regarding cooperation:
+ - Email: kelbetov.aidyn@gmail.com
 
 <!--
 **xhenezzz/xhenezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
